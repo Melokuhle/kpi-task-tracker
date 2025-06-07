@@ -17,9 +17,9 @@ This is a lightweight web-based KPI and Task Management System built with PHP, M
 - 🗂 Organized PHP file structure
 
 🧪 Version 1 Tech Stack
-- ![alt text](image-3.png)Frontend: HTML, Bootstrap 5, Chart.js
--![alt text](image-1.png)(image.png)Backend: PHP (Modular pages with includes)
--![alt text](image-2.png) Database: MySQL with PDO
+- Frontend: HTML, Bootstrap 5, Chart.js
+- Backend: PHP (Modular pages with includes)
+- Database: MySQL with PDO
 - Architecture: Procedural PHP with MVC-style separation
 
 🎯 Future Enhancements
