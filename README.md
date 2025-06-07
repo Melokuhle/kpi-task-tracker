@@ -28,6 +28,7 @@ This is a lightweight web-based KPI and Task Management System built with PHP, M
 📅 Deadline calendar view
 📤 Export to Excel/PDF
 🧩 Role-based access control
+
 📈 Advanced analytics by department/user
 
 ---
